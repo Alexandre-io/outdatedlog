@@ -20,3 +20,8 @@ Show outdated changelog for a list of packages (example with npm and express)
 ```sh
 $ outdatedlog npm express
 ```
+
+Show all outdated and unwanted changelog
+```sh
+$ outdatedlog all -a
+```
