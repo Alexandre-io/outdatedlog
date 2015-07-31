@@ -8,7 +8,12 @@ $ npm install -g outdatedlog
 
 Show all outdated changelog
 ```sh
-$ outdatedlog all
+$ outdatedlog
+```
+
+Show all outdated with unwanted versions
+```sh
+$ outdatedlog -a
 ```
 
 Show outdated changelog for a package (example with npm)
@@ -19,9 +24,4 @@ $ outdatedlog npm
 Show outdated changelog for a list of packages (example with npm and express)
 ```sh
 $ outdatedlog npm express
-```
-
-Show all outdated and unwanted changelog
-```sh
-$ outdatedlog all -a
 ```

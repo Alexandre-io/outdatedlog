@@ -1,4 +1,4 @@
-0.1.1 / 2015-07-31
+1.0.0 / 2015-07-31
 =================
   * Update dependencies
   * fix missing current version
