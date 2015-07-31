@@ -1,3 +1,10 @@
+0.1.1 / 2015-07-31
+=================
+  * Update dependencies
+  * fix missing current version
+  * Update changelog.md
+  * Update readme.md
+
 0.1.1 / 2015-07-01
 =================
   * Update CHANGELOG.md
