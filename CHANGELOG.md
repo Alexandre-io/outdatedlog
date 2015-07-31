@@ -1,7 +1,7 @@
 1.0.0 / 2015-07-31
 =================
   * Update dependencies
-  * fix missing current version
+  * fix crash when missing current version
   * Update changelog.md
   * Update readme.md
 
