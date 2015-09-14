@@ -1,6 +1,6 @@
 {
   "name": "outdatedlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog",
   "main": "lib/outdatedlog",
   "scripts": {
@@ -33,14 +33,14 @@
   },
   "license": "MIT",
   "dependencies": {
-    "async": "^1.2.1",
-    "chalk": "^1.0.0",
-    "changelog": "^1.0.7",
-    "cli": "^0.9.0",
-    "npm": "^2.13.3",
-    "semver-compare": "^1.0.0"
+    "async": "~1.4.2",
+    "chalk": "~1.1.1",
+    "changelog": "~1.0.7",
+    "cli": "~0.10.0",
+    "npm": "~2.14.3",
+    "semver-compare": "~1.0.0"
   },
   "devDependencies": {
-    "jshint": "^2.8.0"
+    "jshint": "~2.8.0"
   }
 }
