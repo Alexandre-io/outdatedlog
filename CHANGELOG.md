@@ -1,3 +1,8 @@
+1.1.0 / 2015-11-03
+=================
+  * Update dependencies
+  * Add support for global packages (-g)
+
 1.0.1 / 2015-09-14
 =================
   * Update dependencies
