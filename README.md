@@ -6,27 +6,27 @@ $ npm install -g outdatedlog
 ```
 ### Command-line Usage
 
-Show all outdated changelog
+Show changelogs for all outdated packages
 ```sh
 $ outdatedlog
 ```
 
-Show all outdated with unwanted versions
+Show changelogs for all outdated packages including unwanted versions
 ```sh
 $ outdatedlog -a
 ```
 
-Show outdated changelog for global packages
+Show changelogs for all outdated global packages
 ```sh
 $ outdatedlog -g
 ```
 
-Show outdated changelog for a package (example with npm)
+Show changelogs for an outdated package (ie. with npm)
 ```sh
 $ outdatedlog npm
 ```
 
-Show outdated changelog for a list of packages (example with npm and express)
+Show changelogs for a list of outdated packages (ie. with npm and express)
 ```sh
 $ outdatedlog npm express
 ```
