@@ -16,6 +16,11 @@ Show all outdated with unwanted versions
 $ outdatedlog -a
 ```
 
+Show outdated changelog for global packages
+```sh
+$ outdatedlog -g
+```
+
 Show outdated changelog for a package (example with npm)
 ```sh
 $ outdatedlog npm
