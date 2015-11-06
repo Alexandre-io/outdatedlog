@@ -1,3 +1,5 @@
+# Outdatedlog [![Build Status](https://travis-ci.org/Alexandre-io/outdatedlog.svg)](https://travis-ci.org/Alexandre-io/outdatedlog)
+
 This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog.
 
 ### Setup
