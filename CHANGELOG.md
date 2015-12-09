@@ -1,3 +1,9 @@
+1.1.1 / 2015-12-09
+=================
+  * Better scoped rslt variable (Thanks dhritzkiv)
+  * Fix coding styles
+  * Update dependencies
+
 1.1.0 / 2015-11-03
 =================
   * Update dependencies
