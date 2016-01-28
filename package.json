@@ -37,10 +37,10 @@
     "chalk": "~1.1.1",
     "changelog": "~1.0.7",
     "cli": "~0.11.1",
-    "npm": "~3.5.1",
+    "npm": "~3.5.4",
     "semver-compare": "~1.0.0"
   },
   "devDependencies": {
-    "jshint": "~2.8.0"
+    "jshint": "~2.9.1"
   }
 }
