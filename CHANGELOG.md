@@ -1,3 +1,7 @@
+1.1.2 / 2016-01-28
+=================
+  * Update eslint
+
 1.1.1 / 2015-12-09
 =================
   * Better scoped rslt variable (Thanks dhritzkiv)
