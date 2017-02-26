@@ -1,5 +1,7 @@
 # Outdatedlog [![Build Status](https://travis-ci.org/Alexandre-io/outdatedlog.svg)](https://travis-ci.org/Alexandre-io/outdatedlog) [![Codacy Badge](https://api.codacy.com/project/badge/grade/22d97fc78fb44dffbf62b94da1e6311a)](https://www.codacy.com/app/alexandre_2/outdatedlog)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Alexandre-io/outdatedlog.svg)](https://greenkeeper.io/)
+
 This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog.
 
 ### Setup
