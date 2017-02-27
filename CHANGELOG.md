@@ -1,3 +1,8 @@
+1.4.0 / 2017-02-27
+=================
+  * Install greenkeeper
+  * Update dependencies
+
 1.3.0 / 2017-01-06
 =================
   * Update dependencies
