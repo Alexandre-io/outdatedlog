@@ -37,7 +37,7 @@
     "chalk": "~2.4.0",
     "changelog": "~1.4.1",
     "cli": "~1.0.1",
-    "npm": "~6.0.0",
+    "npm": "~6.1.0",
     "semver-compare": "~1.0.0"
   },
   "devDependencies": {
