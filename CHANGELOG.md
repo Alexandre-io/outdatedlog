@@ -1,3 +1,8 @@
+2.0.0 / 2018-10-20
+=================
+  * Added support for nodejs 10
+  * Removed support for nodejs < 6
+
 1.5.0 / 2018-01-31
 =================
   * Update dependencies
