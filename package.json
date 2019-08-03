@@ -1,6 +1,6 @@
 {
   "name": "outdatedlog",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog",
   "main": "lib/outdatedlog",
   "scripts": {
