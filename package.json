@@ -1,6 +1,6 @@
 {
   "name": "outdatedlog",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog",
   "main": "lib/outdatedlog",
   "scripts": {
@@ -31,7 +31,7 @@
     "outdatedlog": "./bin/outdatedlog.js"
   },
   "engines": {
-    "node": ">= 8.0"
+    "node": ">= 10.0"
   },
   "license": "MIT",
   "dependencies": {
