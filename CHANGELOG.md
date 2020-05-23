@@ -1,3 +1,8 @@
+3.2.0 / 2020-05-23
+=================
+  * Update dependencies
+  * Add snyk
+
 3.1.0 / 2020-03-11
 =================
   * Update dependencies

@@ -1,4 +1,4 @@
-# Outdatedlog [![Build Status](https://travis-ci.org/Alexandre-io/outdatedlog.svg)](https://travis-ci.org/Alexandre-io/outdatedlog) [![Codacy Badge](https://api.codacy.com/project/badge/grade/22d97fc78fb44dffbf62b94da1e6311a)](https://www.codacy.com/app/alexandre_2/outdatedlog) 
+# Outdatedlog [![Build Status](https://travis-ci.org/Alexandre-io/outdatedlog.svg)](https://travis-ci.org/Alexandre-io/outdatedlog) [![Codacy Badge](https://api.codacy.com/project/badge/grade/22d97fc78fb44dffbf62b94da1e6311a)](https://www.codacy.com/app/alexandre_2/outdatedlog) [![Known Vulnerabilities](https://snyk.io/test/github/Alexandre-io/outdatedlog/badge.svg)](https://snyk.io/test/github/Alexandre-io/outdatedlog)
 
 This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog.
 
