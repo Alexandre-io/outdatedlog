@@ -4,7 +4,7 @@
   "description": "This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog",
   "main": "lib/outdatedlog",
   "scripts": {
-    "test": "node_modules/jshint/bin/jshint ./",
+    "test": "snyk test && node_modules/jshint/bin/jshint ./",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
   },
@@ -39,12 +39,12 @@
     "chalk": "~4.0.0",
     "changelog": "~1.4.2",
     "cli": "~1.0.1",
-    "npm": "~6.14.2",
+    "npm": "~6.14.5",
     "semver-compare": "~1.0.0",
     "snyk": "^1.324.0"
   },
   "devDependencies": {
-    "jshint": "~2.11.0"
+    "jshint": "~2.11.1"
   },
   "snyk": true
 }
