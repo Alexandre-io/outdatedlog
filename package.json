@@ -41,7 +41,7 @@
     "cli": "~1.0.1",
     "npm": "~6.14.5",
     "semver-compare": "~1.0.0",
-    "snyk": "^1.324.0"
+    "snyk": "^1.327.0"
   },
   "devDependencies": {
     "jshint": "~2.11.1"
