@@ -1,6 +1,6 @@
 {
   "name": "outdatedlog",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "This command will check the registry to see if any (or, specific) installed packages are currently outdated and print the changelog",
   "main": "lib/outdatedlog",
   "scripts": {
@@ -39,12 +39,12 @@
     "chalk": "~4.1.0",
     "changelog": "~1.4.2",
     "cli": "~1.0.1",
-    "npm": "~7.0.0",
+    "npm": "~7.9.0",
     "semver-compare": "~1.0.0",
-    "snyk": "^1.518.0"
+    "snyk": "^1.530.0"
   },
   "devDependencies": {
-    "jshint": "~2.11.1"
+    "jshint": "~2.12.0"
   },
   "snyk": true
 }
