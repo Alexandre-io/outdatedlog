@@ -36,7 +36,7 @@
   "license": "MIT",
   "dependencies": {
     "async": "~3.2.0",
-    "chalk": "~4.1.0",
+    "chalk": "~4.1.1",
     "changelog": "~1.4.2",
     "cli": "~1.0.1",
     "npm": "~7.9.0",
